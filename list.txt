@@ -302,6 +302,7 @@ CCTV-17农村农业,http://39.135.34.140:18890/000000001000/1000000005000056836/
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+有线新闻,http://103.56.112.40/ddjgt.php?id=31
 无线财经资讯高清,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
 TVB无线新闻台,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
 TVB无线新闻台,P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
