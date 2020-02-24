@@ -13,7 +13,6 @@ CCTV-11戏曲,http://39.135.15.70:6610/PLTV/88888888/224/3221225746/1/index.m3u8
 CCTV-12社会与法,http://39.135.34.22:18890/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036549#http://111.0.27.31/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
 CCTV-13新闻,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://111.0.27.31/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV-14少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228488/index.m3u8?fmt=ts2hls#http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8#http://111.0.27.31/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-
 CCTV-15音乐,http://39.135.34.11:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037975#http://111.0.27.31/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 CCTV-5+体育,http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8#http://111.0.27.31/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 CCTV-17农村农业,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226841/index.m3u8#http://39.135.15.70:6610/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
