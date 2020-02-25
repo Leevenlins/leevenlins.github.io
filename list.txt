@@ -49,8 +49,8 @@ CCTV-17农村农业,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204
 甘肃卫视,http://39.135.15.70:6610/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls#http://39.135.15.70:6610/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls
 宁夏卫视高清,http://39.135.34.8:18890/000000001000/1000000002000031451/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037183
 海南卫视高清,http://39.135.34.22:18890/000000001000/7899627377857656087/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031881
-凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv
-凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
+凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv#http://liveali.ifeng.com/live/FHZW.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv#http://liveali.ifeng.com/live/FHZX.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 广东综艺4Ｋ,http://nclive.grtn.cn/4K/sd/live.m3u8
 央视频道,#genre#
@@ -167,8 +167,8 @@ CCTV-17农村农业,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204
 宁夏卫视高清,http://39.135.34.8:18890/000000001000/1000000002000031451/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA037183
 海南卫视高清,http://39.135.34.22:18890/000000001000/7899627377857656087/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031881
 港台测试,#genre#
-凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv
-凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
+凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv#,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://liveali.ifeng.com/live/FHZW.m3u8
+凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv#http://liveali.ifeng.com/live/FHZX.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 有线新闻,http://103.56.112.40/ddjgt.php?id=31
 无线财经资讯高清,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8#http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
