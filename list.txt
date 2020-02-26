@@ -64,7 +64,6 @@ TVB明珠,https://116.77.72.195/streams/d/mzt/playlist.m3u8#P2p://sdgdklwos.fine
 TVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
 中天新闻,vjms://58.215.133.185:8500:3502/live/cid=407#vjms://23.237.33.155:8500:3502/live/cid=407#rtmp://59.124.75.137/sat/tv521
 东森财经,vjms://58.215.133.185:8500:3502/live/cid=456#vjms://23.237.33.155:8500:3502/live/cid=456#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
-有线电影,http://pull.scphsd.com/live/2e2e73f6321e94f727400f4a12533e25.flv
 龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
 采昌影剧,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
 EYETV戏剧,P2p://sdgdklwos.finetv.tv:9906/59fd35bd00061f9e02e6671d60d7011c#p8p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
