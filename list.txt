@@ -41,7 +41,7 @@ CCTV 4K FHD版,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3
 河南卫视 FHD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 贵州卫视 FHD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
 广西卫视 FHD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
-海南卫视 FHD,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hitv.m3u8?id=lywshd
+海南卫视 FHD,http://107.148.240.185:13164/play.m3u8?token=xlJnli1kq4uyj62roEmn8ilH&tid=ws&id=15
 青海卫视 FHD,http://live.geermurmt.com/qhws/sd/live.m3u8
 厦门卫视 FHD,http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 新疆卫视 FHD,http://tv.boye.ml/iptv/xjtv.php?id=1
