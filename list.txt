@@ -1,12 +1,12 @@
-央视卫视,#genre#
-CCTV-1 综合 FHD,http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
+央视频道,#genre#
+CCTV-1 综合 FHD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
 CCTV-2 财经 FHD,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 CCTV-3 综艺 FHD,http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
 CCTV-4 国际 FHD,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 CCTV-5 体育 FHD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
 CCTV-5+ 体育赛事 FHD,http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
 CCTV-6 电影 FHD,http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
-CCTV-7 国防军事 FHD,http://112.50.243.8/PLTV/88888888/224/3221226998/1.m3u8
+CCTV-7蓝光,http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226998/1.m3u8
 CCTV-8 电视剧 FHD,http://118.123.60.9:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=089&Provider_id=&Pcontent_id=index.m3u8
 CCTV-9 纪录 FHD,http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
 CCTV-10 科教 FHD,http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8
@@ -19,6 +19,7 @@ CCTV-17 农业农村 FHD,http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 CETV-1 FHD,http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8
 CGTN FHD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
 CCTV 4K FHD版,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+卫视频道,#genre#
 湖南卫视 FHD,http://112.50.243.8/PLTV/88888888/224/3221225935/1.m3u8
 江苏卫视 FHD,http://112.50.243.8/PLTV/88888888/224/3221226869/1.m3u8
 浙江卫视 FHD,http://112.50.243.8/PLTV/88888888/224/3221225934/1.m3u8
@@ -40,15 +41,14 @@ CCTV 4K FHD版,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3
 河南卫视 FHD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 贵州卫视 FHD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
 广西卫视 FHD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
-海南卫视 FHD,http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
+海南卫视 FHD,http://hnhbxww.com/live.php?http://mlive1.91kds.cn/b9/hitv.m3u8?id=lywshd
 青海卫视 FHD,http://live.geermurmt.com/qhws/sd/live.m3u8
 厦门卫视 FHD,http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 新疆卫视 FHD,http://tv.boye.ml/iptv/xjtv.php?id=1
-峨眉电影 HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 吉林卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
-山西卫视 HD,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
+山西卫视 HD,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
 陕西卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=049&Provider_id=&Pcontent_id=index.m3u8
-云南卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
+云南卫视 HD,http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8#http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
 甘肃卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
 西藏卫视 HD,http://118.123.60.9:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=049&Provider_id=&Pcontent_id=index.m3u8
 康巴卫视 HD,http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
@@ -72,13 +72,6 @@ TVB财经资讯,http://seb.sason.top/ptv/tvb.php?id=cj
 亚洲大电影,http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
 亚洲好电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 科幻电影,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-CIBN电影,http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CIBN新知,http://cinb1.peoplevideo.cn/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CIBN精品影院,http://cinb1.peoplevideo.cn/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CIBN流金岁月,http://cibn.peoplevideo.cn/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?wsSecret=5f38811d672214110f110816440adbdb
-CIBN喜剧影院,http://cinb1.peoplevideo.cn/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CIBN古装剧场,http://cinb1.peoplevideo.cn/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
-CIBN骄阳剧场,http://cinb1.peoplevideo.cn/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?wsSecret=6bf1094344cdd96542103b7ead60c664
 动画电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
 怀旧剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
 温情影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_t10/c15_lb_chenglong_1080p_t10.m3u8
