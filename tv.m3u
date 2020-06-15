@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",﻿CCTV-1 综合 FHD
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经 FHD
 http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 综艺 FHD
@@ -13,8 +13,8 @@ http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影 FHD
 http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7蓝光
-http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226998/1.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7 FHD
+http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 电视剧 FHD
 http://118.123.60.9:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=089&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 纪录 FHD
@@ -33,7 +33,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农业农村 FHD
 http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="CETV-1" tvg-logo="" group-title="未分类",CETV-1 FHD
 http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN FHD
 http://120.241.133.167/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
@@ -113,7 +113,7 @@ http://liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m3u8
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=024&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV 4K 高码率
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K
+#EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="" group-title="未分类",纯享4K
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文 官方FHD
 http://tv.sason.xyz/proxy/fh.php?id=zw
@@ -121,9 +121,9 @@ http://tv.sason.xyz/proxy/fh.php?id=zw
 http://tv.sason.xyz/proxy/fh.php?id=zx
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港 官方FHD
 http://tv.sason.xyz/proxy/fh.php?id=hk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级综艺
+#EXTINF:-1 tvg-id="" tvg-name="超级综艺" tvg-logo="" group-title="未分类",超级综艺
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级剧集
+#EXTINF:-1 tvg-id="" tvg-name="超级剧集" tvg-logo="" group-title="未分类",超级剧集
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国功夫
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
