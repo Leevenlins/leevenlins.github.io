@@ -92,17 +92,15 @@ http://tv.boye.ml/iptv/xjtv.php?id=1
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视 HD
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视 HD
-http://107.148.240.185:13164/play.m3u8?token=NlZbMFnCkbwm3%2Ftdx7CpQoOP&tid=ws&id=30&p=1
+http://117.169.124.37:6610/ysten-businessmobile/live/shanxistv/yst.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视 HD
-http://107.148.240.185:13164/play.m3u8?token=jS1uAv2u08gPi36im73muJaJ&tid=ws&id=31
+http://117.169.124.37:6610/ysten-businessmobile/live/shanxi1stv/yst.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视 HD
-http://107.148.240.185:13164/play.m3u8?token=rFQGPx%2BBgeINRs7UDt1XH7G9&tid=ws&id=28
+http://121.31.30.91:8081/ysten-business/live/yunnanstv/1.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视 HD
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视 HD
 http://118.123.60.9:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=049&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视 HD
-http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视 SD
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视 SD
